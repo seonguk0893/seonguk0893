@@ -1,5 +1,7 @@
 ## 김성욱 프로젝트 정리 깃허브 !
 
+🚀 Skills
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonguk0893&hide_progress=true)
 

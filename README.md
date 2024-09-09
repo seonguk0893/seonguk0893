@@ -1,4 +1,4 @@
-## Hi there 👋
+## 김성욱 프로젝트 정리 깃허브 !
 
 <!--
 **seonguk0893/seonguk0893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

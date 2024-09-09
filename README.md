@@ -1,8 +1,7 @@
 ## 김성욱 프로젝트 정리 깃허브 !
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonguk0893)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonguk0893&hide_progress=true)
 
 <!--
 **seonguk0893/seonguk0893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
